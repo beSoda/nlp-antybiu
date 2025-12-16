@@ -1,0 +1,21 @@
+@font-face {
+  font-family: font;
+  src: url(InstrumentSans-Regular.ttf);
+}
+@font-face {
+  font-family: fontB;
+  src: url(InstrumentSans-Medium.ttf);
+}
+
+body{
+  font-family: fontB;
+}
+
+#cttest{
+  background-color: rgb(255,242,204);
+  width: 15vw;
+  height: 17.5vw;
+  border-radius: 2.5vw;
+  display: flex;
+  justify-content: center;
+}
